@@ -1,2 +1,2 @@
-# fuldfzfhjjog.exe-no-skid
-My malware
+# fuldfzfhjjog
+C++ short skidded GDI trojan by Mist32bick
